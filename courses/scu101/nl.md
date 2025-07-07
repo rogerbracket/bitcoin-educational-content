@@ -4,7 +4,7 @@ goal: Update het beheer van wachtwoorden en persoonlijke gegevens. Maak een back
 objectives: 
   - Update over het beheer van persoonlijke gegevens en tools die je beveiliging verbeteren.
   - Implementeer een veilige en gebruiksvriendelijke wachtwoordmanager.
-  - Implementeer twee-factor authenticatie om de beveiliging te versterken en het risico op hacken te minimaliseren.
+  - Implementeer tweefactorauthenticatie om de beveiliging te versterken en het risico op hacken te minimaliseren.
 ---
 
 # Een reis naar de bescherming van je gegevens
