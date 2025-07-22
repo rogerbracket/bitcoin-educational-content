@@ -72,25 +72,25 @@ Een goede valuta bezit een aantal essentiële eigenschappen die het effectief ma
 
 - **Toestemmingsvrij**: In het verleden werden valuta zoals gouden en zilveren munten vaak geslagen door particulieren, lokale autoriteiten of kooplieden die toegang hadden tot de grondstoffen. Dit systeem werkte soms onder licentie of toestemming van koningen of heersers. Na verloop van tijd centraliseerden koningen en overheden dit proces om meer controle te krijgen over economische stabiliteit, belastingen en het monetaire systeem. Een beroemd voorbeeld is de **thaler**, een zilveren munt die voor het eerst werd geslagen in 1518 in het **Joachimsthal** (het huidige Jáchymov in Tsjechië) door lokale mijnwerkers en autoriteiten. De naam "thaler" is afgeleid van het Duitse woord **"Thal"** dat "vallei" betekent. Deze munten, bekend om hun hoge zilvergehalte, werden wijd verspreid in Europa. In de loop van de tijd evolueerde de term uiteindelijk tot het woord "dollar", dat door de Verenigde Staten werd overgenomen als naam voor hun valuta.
 
-Vanaf het moderne tijdperk werden munteenheden volledig toegestaan onder het seignioragesysteem, wat betekent dat alleen bevoegde entiteiten, zoals centrale banken of schatkisten, munten kunnen slaan of bankbiljetten kunnen drukken. Het is individuen niet langer wettelijk toegestaan om geld te produceren, wat zorgt voor een gecentraliseerde controle over de uitgifte en de Supply.
+In de moderne tijd zijn valuta volledig toegestaan geworden onder het seigniorage-systeem, wat betekent dat alleen bevoegde entiteiten, zoals centrale banken of schatkamers, munten mogen slaan of bankbiljetten drukken. Individuen mogen wettelijk gezien geen valuta meer produceren, waardoor de uitgifte en het aanbod volledig centraal worden gecontroleerd.
 
-Vandaag wordt het principe van seigniorage uitgedaagd door de Bitcoin cryptocurrency, die zonder gecentraliseerde controle werkt. Bitcoin is een "toestemmingsvrij" systeem waarbij iedereen kan deelnemen aan het gebruik van de munt zonder toestemming te vragen, en, via Mining, aan het creëren ervan. Deze decentralisatie verwijdert het uitgiftemonopolie van overheden, wat vragen oproept over een mogelijke terugkeer naar concurrerende valutasystemen op de vrije markt.
+Vandaag de dag wordt dit principe van seigniorage uitgedaagd door de Bitcoin, dat functioneert zonder gecentraliseerde controle. Bitcoin is een "toestemmingsvrij" systeem waarbij iedereen kan deelnemen aan het gebruik van de valuta zonder toestemming te vragen, en via het minen kan bijdragen aan de creatie ervan. Deze decentralisatie haalt het monopolie op geldcreatie weg bij overheden en roept vragen op over mogelijke terugkeer naar concurrerende valuta's binnen een vrije markt.
 
-- Rekeneenheid**: Een munteenheid moet een standaardmaatstaf zijn om de waarde van goederen en diensten te vergelijken. Dit vereenvoudigt de handel en maakt prijzen transparant en consistent voor alle transacties.
+- **Rekeneenheid**: Een munteenheid moet een standaardmaatstaf zijn om de waarde van goederen en diensten te vergelijken. Dit vereenvoudigt de handel en maakt prijzen transparant en consistent voor alle transacties.
 
-- Duurzaam**: Een valuta moet bestand zijn tegen slijtage na verloop van tijd. Fysieke valuta, zoals munten of bankbiljetten, moeten bestand zijn tegen beschadiging, terwijl digitale valuta veilig opgeslagen moeten blijven zonder risico op gegevensverlies.
+- **Duurzaam**: Een valuta moet bestand zijn tegen slijtage na verloop van tijd. Fysieke valuta, zoals munten of bankbiljetten, moeten bestand zijn tegen beschadiging, terwijl digitale valuta veilig opgeslagen moeten blijven zonder risico op gegevensverlies.
 
-- Draagbaar**: Een munteenheid moet gemakkelijk te vervoeren en te gebruiken zijn, zodat handel over afstanden mogelijk is. Dit kan worden bereikt door fysieke draagbaarheid (lichtgewicht munten of biljetten) of digitale transfersystemen.
+- **Draagbaar**: Een munteenheid moet gemakkelijk te vervoeren en te gebruiken zijn, zodat handel over afstanden mogelijk is. Dit kan worden bereikt door fysieke draagbaarheid (lichtgewicht munten of biljetten) of digitale transfersystemen.
 
-- Deelbaar**: Een valuta moet deelbaar zijn in kleinere eenheden om transacties van verschillende grootte te vergemakkelijken. Deze flexibiliteit zorgt ervoor dat het praktisch is voor zowel kleine aankopen als grootschalige handel.
+- **Deelbaar**: Een valuta moet deelbaar zijn in kleinere eenheden om transacties van verschillende grootte te vergemakkelijken. Deze flexibiliteit zorgt ervoor dat het praktisch is voor zowel kleine aankopen als grootschalige handel.
 
-- Fungibel**: Alle eenheden van een valuta moeten uitwisselbaar zijn en dezelfde waarde hebben. Een dollarbiljet moet bijvoorbeeld gelijkwaardig zijn aan elk ander dollarbiljet. Deze uniformiteit zorgt voor eerlijkheid en eenvoud in transacties.
+- **Fungibel**: Alle eenheden van een valuta moeten uitwisselbaar zijn en dezelfde waarde hebben. Een dollarbiljet moet bijvoorbeeld gelijkwaardig zijn aan elk ander dollarbiljet. Deze uniformiteit zorgt voor eerlijkheid en eenvoud in transacties.
 
-- Herkenbaar**: Een munteenheid moet gemakkelijk te herkennen en te vertrouwen zijn. Fysieke munteenheden bereiken dit door unieke ontwerpen en veiligheidskenmerken, terwijl digitale munteenheden kunnen vertrouwen op verificatieprotocollen. Dit zorgt voor wijdverspreide acceptatie en vermindert het risico op fraude.
+- **Herkenbaar**: Een munteenheid moet gemakkelijk te herkennen en te vertrouwen zijn. Fysieke munteenheden bereiken dit door unieke ontwerpen en veiligheidskenmerken, terwijl digitale munteenheden kunnen vertrouwen op verificatieprotocollen. Dit zorgt voor wijdverspreide acceptatie en vermindert het risico op fraude.
 
-Deze kenmerken maken een munteenheid praktisch, betrouwbaar en efficiënt voor het faciliteren van handel en het opslaan van waarde in een economie.
+Deze kenmerken maken een munteenheid praktisch, betrouwbaar en efficiënt voor het faciliteren van handel en dient als waardeopslagmiddel in een economie.
 
-### Valutasystemen evoluties
+### Evolutie van valutasystemen
 
 **Van munten naar papiergeld: Grotere efficiëntie en draagbaarheid**
 
