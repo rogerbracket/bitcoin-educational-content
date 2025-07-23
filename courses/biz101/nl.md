@@ -74,47 +74,47 @@ Een goede valuta bezit een aantal essentiële eigenschappen die het effectief ma
 
 In de moderne tijd zijn valuta volledig toegestaan geworden onder het seigniorage-systeem, wat betekent dat alleen bevoegde entiteiten, zoals centrale banken of schatkamers, munten mogen slaan of bankbiljetten drukken. Individuen mogen wettelijk gezien geen valuta meer produceren, waardoor de uitgifte en het aanbod volledig centraal worden gecontroleerd.
 
-Vandaag de dag wordt dit principe van seigniorage uitgedaagd door de Bitcoin, dat functioneert zonder gecentraliseerde controle. Bitcoin is een "toestemmingsvrij" systeem waarbij iedereen kan deelnemen aan het gebruik van de valuta zonder toestemming te vragen, en via het minen kan bijdragen aan de creatie ervan. Deze decentralisatie haalt het monopolie op geldcreatie weg bij overheden en roept vragen op over mogelijke terugkeer naar concurrerende valuta's binnen een vrije markt.
+Vandaag de dag wordt dit principe van seigniorage - winst uit de uitgifte van geld - uitgedaagd door Bitcoin, dat functioneert zonder gecentraliseerde controle. Bitcoin is een "permissionless" systeem iedereen kan deelnemen aan het gebruik van de valuta zonder toestemming te hoeven vragen, en via het minen kan bijdragen aan de creatie ervan. Deze decentralisatie haalt het monopolie op geldcreatie weg bij overheden en roept vragen op over mogelijke terugkeer naar concurrerende valuta's binnen een vrije markt.
 
-- **Rekeneenheid**: Een munteenheid moet een standaardmaatstaf zijn om de waarde van goederen en diensten te vergelijken. Dit vereenvoudigt de handel en maakt prijzen transparant en consistent voor alle transacties.
+- **Rekeneenheid** (unit of account): Een valuta moet een standaard maat bieden om de waarde van goederen en diensten te vergelijken. Dit vereenvoudigt de handel en maakt prijzen transparant en consistent voor alle transacties.
 
-- **Duurzaam**: Een valuta moet bestand zijn tegen slijtage na verloop van tijd. Fysieke valuta, zoals munten of bankbiljetten, moeten bestand zijn tegen beschadiging, terwijl digitale valuta veilig opgeslagen moeten blijven zonder risico op gegevensverlies.
+- **Duurzaam**: Een valuta moet bestand zijn tegen slijtage en veroudering. Fysieke valuta, zoals munten of bankbiljetten, moeten bestand zijn tegen beschadiging, terwijl digitale valuta veilig opgeslagen moeten blijven zonder risico op gegevensverlies.
 
-- **Draagbaar**: Een munteenheid moet gemakkelijk te vervoeren en te gebruiken zijn, zodat handel over afstanden mogelijk is. Dit kan worden bereikt door fysieke draagbaarheid (lichtgewicht munten of biljetten) of digitale transfersystemen.
+- **Draagbaar**: Een valuta moet gemakkelijk te vervoeren en te gebruiken zijn, zodat handel over afstanden mogelijk wordt. Dit kan zowel fysiek (lichte munten of biljetten) of digitaal (via transfersystemen).
 
-- **Deelbaar**: Een valuta moet deelbaar zijn in kleinere eenheden om transacties van verschillende grootte te vergemakkelijken. Deze flexibiliteit zorgt ervoor dat het praktisch is voor zowel kleine aankopen als grootschalige handel.
+- **Deelbaar**: Een valuta moet opdeelbaar zijn in kleinere eenheden om transacties van verschillende grootte te vergemakkelijken. Deze flexibiliteit zorgt ervoor dat het praktisch en bruikbaar is voor zowel kleine aankopen als grootschalige handel.
 
-- **Fungibel**: Alle eenheden van een valuta moeten uitwisselbaar zijn en dezelfde waarde hebben. Een dollarbiljet moet bijvoorbeeld gelijkwaardig zijn aan elk ander dollarbiljet. Deze uniformiteit zorgt voor eerlijkheid en eenvoud in transacties.
+- **Fungibel**: Alle eenheden van een valuta moeten onderling uitwisselbaar zijn en dezelfde waarde vertegenwoordigen. Bijvoorbeeld: Een dollarbiljet moet gelijkwaardig zijn aan elk ander dollarbiljet. Deze uniformiteit zorgt voor eerlijkheid en eenvoud in transacties.
 
-- **Herkenbaar**: Een munteenheid moet gemakkelijk te herkennen en te vertrouwen zijn. Fysieke munteenheden bereiken dit door unieke ontwerpen en veiligheidskenmerken, terwijl digitale munteenheden kunnen vertrouwen op verificatieprotocollen. Dit zorgt voor wijdverspreide acceptatie en vermindert het risico op fraude.
+- **Herkenbaar**: Een munteenheid moet gemakkelijk te herkennen en te vertrouwen zijn. Fysieke valuta bereikt dit door unieke ontwerpen en beveiligingskenmerken, terwijl digitale valuta gebruik maakt van verificatieprotocollen. Dit bevordert brede acceptatie en vermindert het risico op fraude.
 
-Deze kenmerken maken een munteenheid praktisch, betrouwbaar en efficiënt voor het faciliteren van handel en dient als waardeopslagmiddel in een economie.
+Deze kenmerken maken een valuta praktisch, betrouwbaar en efficiënt voor het faciliteren van handel en het opslaan van waarde in een economie.
 
-### Evolutie van valutasystemen
+### Evolutie van geldsystemen
 
-**Van munten naar papiergeld: Grotere efficiëntie en draagbaarheid**
+**Van munten naar papiergeld: grotere efficiëntie en draagbaarheid**
 
-De overgang van munten naar papiergeld betekende een aanzienlijke verbetering in **draagbaarheid** en efficiëntie. Munten, gemaakt van edele metalen zoals goud of zilver, waren waardevol vanwege hun intrinsieke waarde. Ze waren echter zwaar, moeilijk te vervoeren in grote hoeveelheden en onderhevig aan slijtage of diefstal. Papiergeld bracht een revolutie teweeg in valutanetwerken door een lichtgewicht, gestandaardiseerd en draagbaar medium te introduceren dat waarde vertegenwoordigde in plaats van het te bevatten. Deze innovatie maakte schaalvergroting van economieën mogelijk doordat handel over lange afstanden eenvoudiger werd en de logistieke uitdagingen van het gebruik van fysieke goederen als geld werden verminderd.
+De overgang van munten naar papiergeld betekende een aanzienlijke verbetering in **draagbaarheid** en efficiëntie. Munten, gemaakt van edele metalen zoals goud of zilver, waren waardevol vanwege hun intrinsieke waarde. Ze waren echter zwaar, moeilijk te vervoeren in grote hoeveelheden en onderhevig aan slijtage of diefstal. Papiergeld bracht een revolutie teweeg door een licht, gestandaardiseerd en draagbaar medium te introduceren dat waarde vertegenwoordigde in plaats van het te bevatten. Deze innovatie maakte schaalvergroting van economieën mogelijk doordat handel over lange afstanden eenvoudiger werd en de logistieke uitdagingen van het gebruik van fysieke geldsoorten werden verminderd.
 
-Papiergeld verbeterde ook de schaalbaarheid. In plaats van te vertrouwen op de beperkte Supply van edelmetalen, konden economieën hun monetaire basis uitbreiden door middel van representatieve valuta's, die in eerste instantie werden ondersteund door reserves en later door vertrouwen in uitgevende instellingen. Deze verschuiving maakte de weg vrij voor complexere en onderling verbonden financiële systemen.
+Papiergeld maakte ook schaalvergroting mogelijk. In plaats van te vertrouwen op de beperkte voorraad van edelmetalen, konden economieën hun geldhoeveelheid uitbreiden door middel van representatieve geld. In eerste instantie werd dit geld gedekt door reserves en later door vertrouwen in de uitgevende instellingen. Deze verschuiving maakte de weg vrij voor complexere en onderling verbonden financiële systemen.
 
-**Van papier naar elektronisch geld: Vergroten van toegankelijkheid en snelheid**
+**Van papier naar elektronisch geld: grotere toegankelijkheid en snelheid**
 
-De overgang van papiergeld naar elektronisch geld verbeterde het valutanetwerk nog verder door de toegankelijkheid en snelheid te vergroten. Met de opkomst van banksystemen, creditcards en digitale transacties werd geld niet alleen **draagbaar**, maar bijna **onmiddellijk**. Elektronische overschrijvingen maakten fysieke Exchange overbodig, waardoor transacties over grote afstanden binnen enkele seconden konden plaatsvinden.
+De overgang van papiergeld naar elektronisch geld verbeterde het geldnetwerk verder door de toegankelijkheid en snelheid te vergroten. Met de opkomst van banken, creditcards en digitale transacties werd geld niet alleen **draagbaar**, maar vrijwel **direct**. Elektronische overschrijvingen maakten fysieke geld overbodig en maakten het mogelijk om transacties over grote afstanden binnen enkele seconden uit te voeren.
 
-Deze verschuiving democratiseerde ook de toegang tot valuta. Elektronisch bankieren en betalingssystemen verlaagden de toegangsdrempels voor particulieren en bedrijven, waardoor deelname aan de wereldeconomie mogelijk werd. De snelheid en het gemak van elektronisch geld breidden de handelsnetwerken uit en stimuleerden nieuwe bedrijfsmodellen die onmogelijk zouden zijn geweest in een op papier gebaseerd systeem.
+Deze verschuiving democratiseerde ook de toegang tot geld. Elektronisch bankieren en betalingssystemen verlaagden de toegangsdrempel voor particulieren en bedrijven, waardoor deelname aan de wereldeconomie mogelijk werd. De snelheid en het gemak van elektronisch geld breidden de handelsnetwerken uit en stimuleerden nieuwe bedrijfsmodellen die onmogelijk zouden zijn geweest in een op papier gebaseerd systeem.
 
-Deze moderne valutanetwerken hadden een belangrijk nadeel: een **zwakke controleerbaarheid en transparantie in het beheer van het geld Supply**, wat vaak resulteerde in ongecontroleerde inflatie en een verlies aan vertrouwen in gecentraliseerde systemen. Zo werd alleen al in de laatste vier jaar meer dan 20% van alle in omloop zijnde Amerikaanse dollars gedrukt. Deze hardnekkige verleiding om meer geld uit te geven - en daarmee de waarde van de huidige houders te verminderen - kan grotendeels worden toegeschreven aan een systeemfout: politici worden vaak gestimuleerd om moeilijke budgettaire beslissingen te vermijden en kiezen er in plaats daarvan voor om uitdagingen naar toekomstige regeringen door te schuiven
+Deze moderne geldnetwerken hadden een groot nadeel: een **zwakke controleerbaarheid en transparantie in het beheer van de geldvoorraad**, wat vaak resulteerde in ongecontroleerde inflatie en een verlies aan vertrouwen in gecentraliseerde systemen. Zo is 20% van alle dollars die in omloop is in de afgelopen vier jaar gedrukt. Deze hardnekkige verleiding om meer geld uit te geven - en daarmee de waarde van de huidige geldbezitters te verminderen - kan grotendeels worden toegeschreven aan een systeemfout: politici worden vaak gestimuleerd om moeilijke budgettaire beslissingen te vermijden en kiezen er in plaats daarvan voor om uitdagingen naar toekomstige regeringen door te schuiven
 
-**Van gecentraliseerde naar gedecentraliseerde valuta: Vergroting van vertrouwen en soevereiniteit**
+**Van gecentraliseerde naar gedecentraliseerde geld: vergroting van vertrouwen en soevereiniteit**
 
-Vandaag de dag vertegenwoordigt de opkomst van Bitcoin als gedecentraliseerde valuta de volgende sprong in valutanetwerken. Traditioneel elektronisch geld vertrouwt op gecentraliseerde autoriteiten, zoals banken of overheden, om transacties te beheren en te verifiëren. Hoewel deze systemen effectief zijn, zijn ze kwetsbaar voor inefficiëntie, censuur en single points of failure. Decentrale munteenheden verbeteren deze netwerkeigenschappen door **het vertrouwen te verdelen en tussenpersonen** te verwijderen. Het betekent ook dat geld veel **sneller** en **goedkoper** kan bewegen, omdat er geen autorisatiestappen zijn. Tenslotte kan geen mens in de verleiding komen om het Bitcoin valuta Supply schema te veranderen, dat wordt afgedwongen door de software.
+Vandaag de dag vormt de opkomst van Bitcoin als gedecentraliseerde valuta de volgende sprong in de ontwikkeling van geldnetwerken. Traditioneel elektronisch geld is afhankelijk van gecentraliseerde autoriteiten, zoals banken of overheden, om transacties te beheren en te verifiëren. Hoewel dit doorgaans effectief werkt, zijn ze kwetsbaar voor inefficiëntie, censuur en single points of failure. Gedecentraliseerde valuta verbeteren deze netwerkeigenschappen door **het vertrouwen te verdelen en tussenpersonen te elimineren**. Dat betekent ook dat geld veel **sneller** en **goedkoper** kan bewegen, omdat er geen autorisatiestappen nodig zijn. En tot slotte: geen mens kan in de verleiding komen om het uitgifteschema van Bitcoin te veranderen - dat is vastgelegd in de software en automatisch afdwingbaar.
 
-In gedecentraliseerde systemen worden transacties geverifieerd door een wereldwijd netwerk van deelnemers met behulp van Blockchain-technologie, wat veiligheid, transparantie en veerkracht garandeert. Deze structuur minimaliseert het risico op fraude, vermindert de afhankelijkheid van centrale autoriteiten en geeft individuen meer controle over hun financiën. Door geografische en institutionele barrières te elimineren, bieden gedecentraliseerde munteenheden een echt wereldwijd en inclusief monetair systeem.
+In gedecentraliseerde systemen worden transacties geverifieerd door een wereldwijd netwerk van deelnemers via blockchain-technologie. Dit garandeert veiligheid, transparantie en weerbaarheid. Deze structuur minimaliseert het risico op fraude, vermindert de afhankelijkheid van centrale autoriteiten en geeft individuen meer controle over hun eigen financiën. Door geografische en institutionele barrières weg te nemen, bieden gedecentraliseerde valuta een werkelijk mondiaal en inclusief monetair systeem.
 
 **De evolutie van valutanetwerken**
 
-Elke fase in de evolutie van valutanetwerken heeft belangrijke eigenschappen verbeterd: draagbaarheid, schaalbaarheid, toegankelijkheid, snelheid, veiligheid en vertrouwen. Munten maakten plaats voor papiergeld voor betere overdraagbaarheid en efficiëntie. Papier evolueerde naar elektronisch geld, dat wereldwijde toegang en directe transacties mogelijk maakte. Nu herdefinieert Bitcoin vertrouwen en veiligheid door een open en veerkrachtig monetair systeem te creëren. Deze historische progressie benadrukt de voortdurende drang van de mensheid om betere netwerken voor waarde Exchange te creëren, waarbij elke iteratie voortbouwt op de beperkingen van de vorige en deze overtreft.
+Elke fase in de evolutie van geldnetwerken heeft belangrijke verbeteringen teweeg gebracht: draagbaarheid, schaalbaarheid, toegankelijkheid, snelheid, veiligheid en vertrouwen. Munten maakten plaats voor papiergeld voor betere overdraagbaarheid en efficiëntie. Papier evolueerde naar elektronisch geld, dat wereldwijde toegang en directe transacties mogelijk maakte. Nu herdefinieert Bitcoin vertrouwen en veiligheid door een open en veerkrachtig monetair systeem te creëren. Deze historische progressie benadrukt de voortdurende drang van de mensheid om betere netwerken voor waarde-uitwisseling te creëren, waarbij elke stap voortbouwt op de beperkingen van de vorige en deze overtreft.
 
 Het beste netwerk zal waarschijnlijk winnen.
 
@@ -198,9 +198,9 @@ Net zoals we zijn overgestapt van het betalen per minuut voor telefoongesprekken
 
 Bitcoin is een **peer-to-peer digitaal geld Exchange systeem** (elektronisch geld). De term "Bitcoin" verwijst naar de volgende componenten:
 
-- Een computerprotocol** dat waarde Exchange op het internet mogelijk maakt zonder tussenpersonen, zonder toestemming en pseudoniem. Het maakt gebruik van geavanceerde cryptografische principes.
-- Een fysiek netwerk** van machines verbonden met het internet (nodes, miners, enz.), beheerd door particulieren en bedrijven, dat een gedecentraliseerd systeem vormt (zonder centrale autoriteit of centraal controlepunt).
-- De rekeneenheid** binnen het systeem. Er zullen nooit meer dan 21 miljoen bitcoins bestaan. Elke Bitcoin is deelbaar in 100 miljoen eenheden die "satoshis" worden genoemd, ter ere van de anonieme maker.
+- **Een computerprotocol** dat waarde Exchange op het internet mogelijk maakt zonder tussenpersonen, zonder toestemming en pseudoniem. Het maakt gebruik van geavanceerde cryptografische principes.
+- **Een fysiek netwerk** van machines verbonden met het internet (nodes, miners, enz.), beheerd door particulieren en bedrijven, dat een gedecentraliseerd systeem vormt (zonder centrale autoriteit of centraal controlepunt).
+- **De rekeneenheid** binnen het systeem. Er zullen nooit meer dan 21 miljoen bitcoins bestaan. Elke Bitcoin is deelbaar in 100 miljoen eenheden die "satoshis" worden genoemd, ter ere van de anonieme maker.
 
 Samen maken ze van Bitcoin een **bearer asset** en een digitale valuta **zonder uitgever**. Ownership wordt alleen beveiligd door het bezit van de **private cryptografische sleutel**, die volledige controle geeft **zonder tussenpersonen of vertrouwde derden**. Bij overdracht is Ownership onmiddellijk **eigenaar**: de nieuwe houder bezit het volledig zonder afhankelijk te zijn van een centrale autoriteit voor bescherming of converteerbaarheid. Transacties zijn onveranderlijk** - eenmaal vastgelegd op de Blockchain, kunnen ze niet meer veranderd of verwijderd worden.
 
@@ -220,25 +220,25 @@ Bitcoin daagt ons uit om de aard van geld te heroverwegen. Kun je uitleggen wat 
 
 **Bitcoin IDENTITEITSKAART**
 
-- Leeftijd:** 15 jaar (3 januari 2009)
-- Dagelijkse Exchange waarde:** $10 miljard (> CAC40)
-- Marktkapitalisatie:** $1,8 biljoen (> Meta, Visa, Zilver ; < Apple, Google, Goud)
-- Gebruikers:** ~100 tot 200 miljoen (1-2% van de wereldbevolking)
-- Volatiliteit:** Intrinsiek geen (1 Bitcoin = 1 Bitcoin), extern zeer hoog (op fiatvaluta beurzen)
-- Prestaties:** Eerste transactie op $0,0009; nu $100.000 (x100 miljoen)
-- Netwerkbeschikbaarheid (uptime):** 100% sinds 2013
-- Doodverklaard of bekritiseerd:** Eens per maand
+- **Leeftijd:** 15 jaar (3 januari 2009)
+- **Dagelijkse Exchange waarde:** $10 miljard (> CAC40)
+- **Marktkapitalisatie:** $1,8 biljoen (> Meta, Visa, Zilver ; < Apple, Google, Goud)
+- **Gebruikers:** ~100 tot 200 miljoen (1-2% van de wereldbevolking)
+- **Volatiliteit:** Intrinsiek geen (1 Bitcoin = 1 Bitcoin), extern zeer hoog (op fiatvaluta beurzen)
+- **Prestaties:** Eerste transactie op $0,0009; nu $100.000 (x100 miljoen)
+- **Netwerkbeschikbaarheid (uptime):** 100% sinds 2013
+- **Doodverklaard of bekritiseerd:** Eens per maand
 
 **Een wonder van menselijke samenwerking:**
 
 - Volledig **open-source**
-- Rechtspersoon:** Geen
-- CEO:** Geen
-- Risicokapitaalinvestering:** Geen
-- Marketing:** Geen
-- R&D:** Vrijwilligerswerk
-- Beheer:** Door de gebruikers
-- Innovatief economisch model:** Het aanmaken van blokken wordt gesubsidieerd door transactievergoedingen (op basis van veilingen)
+- **Rechtspersoon:** Geen
+- **CEO:** Geen
+- **Risicokapitaalinvestering:** Geen
+- **Marketing:** Geen
+- **R&D:** Vrijwilligerswerk
+- **Beheer:** Door de gebruikers
+- **Innovatief economisch model:** Het aanmaken van blokken wordt gesubsidieerd door transactievergoedingen (op basis van veilingen)
 
 Voor meer informatie over Bitcoin, de geschiedenis, de werking en het gebruik ervan, raad ik ook aan deze andere uitgebreide cursus te volgen:
 
@@ -248,15 +248,15 @@ https://planb.network/courses/2b7dc507-81e3-4b70-88e6-41ed44239966
 
 <chapterId>c095c7ad-5469-4c7b-9510-b6c0b86244e7</chapterId>
 
-**WAT IS BLIKSEM?
+**WAT IS LIGHTNING?
 
-De Lightning Network is **een protocol en een netwerk** dat Bitcoin transacties faciliteert met minimale interactie met Bitcoin's hoofd Blockchain. Dit is hoe het werkt:
+Het Lightning Network is **een protocol en een netwerk** dat Bitcoin transacties faciliteert met minimale interactie met Bitcoin's hoofd Blockchain. Dit is hoe het werkt:
 
-- Initiële instelling:** Gelden worden vergrendeld (geblokkeerd) op de hoofd-Blockchain om een betalingskanaal tussen 2 partijen tot stand te brengen.
-- Betalingsnetwerk:** Een web van betalingskanalen tussen meerdere partijen vormt een betalingsnetwerk (routing en interconnectie).
-- off-chain transacties:** Transacties vinden plaats tussen partijen, maar worden **niet onmiddellijk gepubliceerd** op Bitcoin's hoofd Blockchain (**"off-chain"**).
-- On-Chain settlements:** Alleen **het eindsaldo** van de transacties van een kanaal wordt gepubliceerd op de Bitcoin hoofd Blockchain (**"On-Chain**"), waardoor in de tussentijd meerdere transacties kunnen plaatsvinden. Dit bundelen van meerdere betalingen vermindert de congestie en verlaagt dus de kosten in vergelijking met het maken van veel On-Chain transacties.
-- Kanaalsluiting:** Een gebruiker kan op elk moment zijn kanaal sluiten en zijn Bitcoin terugvorderen door de laatste transactiestatus te publiceren. Dit is het principe van transacties die **"publiceerbaar" zijn op elk moment, maar "ongepubliceerd"** tot het nodig is. De uitgang (kanaalsluiting) kan unilateraal zijn (besloten door elk van de 2 partijen op elk moment) of wederzijds besloten (resulterend in lagere On-Chain vergoedingen)
+- **Initiële instelling:** Gelden worden vergrendeld (geblokkeerd) op de hoofd-Blockchain om een betalingskanaal tussen 2 partijen tot stand te brengen.
+- **Betalingsnetwerk:** Een web van betalingskanalen tussen meerdere partijen vormt een betalingsnetwerk (routing en interconnectie).
+- **Off-chain transacties:** Transacties vinden plaats tussen partijen, maar worden **niet onmiddellijk gepubliceerd** op Bitcoin's hoofd Blockchain (**"off-chain"**).
+- **On-Chain settlements:** Alleen **het eindsaldo** van de transacties van een kanaal wordt gepubliceerd op de Bitcoin hoofd Blockchain (**"On-Chain**"), waardoor in de tussentijd meerdere transacties kunnen plaatsvinden. Dit bundelen van meerdere betalingen vermindert de congestie en verlaagt dus de kosten in vergelijking met het maken van veel On-Chain transacties.
+- **Kanaalsluiting:** Een gebruiker kan op elk moment zijn kanaal sluiten en zijn Bitcoin terugvorderen door de laatste transactiestatus te publiceren. Dit is het principe van transacties die **"publiceerbaar" zijn op elk moment, maar "ongepubliceerd"** tot het nodig is. De uitgang (kanaalsluiting) kan unilateraal zijn (besloten door elk van de 2 partijen op elk moment) of wederzijds besloten (resulterend in lagere On-Chain vergoedingen)
 
 ![BIZ101](assets/en/04.webp)
 
@@ -272,9 +272,9 @@ De Lightning Network maakt onmiddellijke waarde Exchange mogelijk met de snelhei
 
 **Belangrijkste voordelen:**
 
-- Snelheid:** Directe transacties.
-- Lage kosten:** Veel lagere kosten in vergelijking met traditionele banknetwerken.
-- Gebruiksgemak:** Bedrijven kunnen Lightning-betalingen snel accepteren via een smartphone-app of een betaalknop op hun website.
+- **Snelheid:** Directe transacties.
+- **Lage kosten:** Veel lagere kosten in vergelijking met traditionele banknetwerken.
+- **Gebruiksgemak:** Bedrijven kunnen Lightning-betalingen snel accepteren via een smartphone-app of een betaalknop op hun website.
 
 De Lightning-infrastructuur presteert beter dan traditionele betalingssystemen op het gebied van snelheid, kosten en energie-efficiëntie. Met de toenemende adoptie door handelaren zal het momentum versnellen: als betalingen het gebonden interbancaire netwerk kunnen omzeilen, waarom dan nog een aanzienlijk percentage van de inkomsten opgeven aan de huidige tussenpersonen?
 
@@ -298,18 +298,18 @@ De Lightning Network is ideaal voor Bitcoin betalingen in fysieke of online wink
 - Finaliteit:** Zodra een betaling is gedaan op Lightning, is deze definitief. Er is geen mogelijkheid voor terugboekingen door derden of fraudegerelateerde geschillen.
 - Kosten:** Transactiekosten op de Lightning Network zijn minimaal en worden betaald door de gebruiker, niet door de handelaar. Merchants betalen alleen kosten als ze hun Bitcoin later moeten overzetten naar een ander netwerk of een andere dienst.
 
-**BLIKSEM IDENTITEITSKAART**
+**LIGHTNING IDENTITEITSKAART**
 
-- Uitvinding:** 2015
-- Lancering:** 2016
-- Leeftijd:** 7 jaar (eerste transactie: 28 december 2017)
-- Technische capaciteit van het netwerk:** Op schaal kan het 1000 keer meer directe transacties verwerken dan traditionele systemen.
-- Transactiegroottes:** Variërend van even groot tot 1000 keer kleiner dan traditionele systemen.
-- Transactiesnelheid:** Tot 100 keer sneller.
-- Kosten:** Tot 90% lager.
-- Definitieve betaling:** Bijna onmiddellijk (vaak ~500 milliseconden, soms een paar seconden).
-- Energieverbruik:** ~8% van het traditionele mondiale monetaire systeem.
-- Kenmerken:**
+- **Uitvinding:** 2015
+- **Lancering:** 2016
+- **Leeftijd:** 7 jaar (eerste transactie: 28 december 2017)
+- **Technische capaciteit van het netwerk:** Op schaal kan het 1000 keer meer directe transacties verwerken dan traditionele systemen.
+- **Transactiegroottes:** Variërend van even groot tot 1000 keer kleiner dan traditionele systemen.
+- **Transactiesnelheid:** Tot 100 keer sneller.
+- **Kosten:** Tot 90% lager.
+- **Definitieve betaling:** Bijna onmiddellijk (vaak ~500 milliseconden, soms een paar seconden).
+- **Energieverbruik:** ~8% van het traditionele mondiale monetaire systeem.
+- **Kenmerken:**
     - Peer-to-peer
     - Universeel
     - Toestemmingsvrij
@@ -388,13 +388,13 @@ De Austrian School of Economics is vernoemd naar de oprichters en vroege bijdrag
 
 In de Oostenrijkse visie is kapitaal nauw verbonden met het idee van het uitstellen van consumptie om gereedschappen of productieve middelen te bouwen die de toekomstige productie verbeteren. Dit proces, bekend als kapitaalaccumulatie, staat centraal in de Oostenrijkse economische theorie. De belangrijkste Elements van dit perspectief zijn:
 
-- Tijdsvoorkeur en uitgestelde consumptie**: Individuen consumeren van nature liever nu dan later, maar ze kunnen ervoor kiezen om consumptie uit te stellen als ze in de toekomst grotere beloningen verwachten. Door vandaag te sparen, kunnen middelen worden geïnvesteerd in kapitaalgoederen (gereedschap, machines, infrastructuur) die de productiviteit na verloop van tijd verbeteren. Samenlevingen of individuen met een lagere tijdsvoorkeur sparen meer en investeren in langetermijnprojecten, wat duurzame groei bevordert.
+- **Tijdsvoorkeur en uitgestelde consumptie**: Individuen consumeren van nature liever nu dan later, maar ze kunnen ervoor kiezen om consumptie uit te stellen als ze in de toekomst grotere beloningen verwachten. Door vandaag te sparen, kunnen middelen worden geïnvesteerd in kapitaalgoederen (gereedschap, machines, infrastructuur) die de productiviteit na verloop van tijd verbeteren. Samenlevingen of individuen met een lagere tijdsvoorkeur sparen meer en investeren in langetermijnprojecten, wat duurzame groei bevordert.
 
-- Kapitaal als motor van toekomstige productie**: Kapitaalgoederen worden gezien als intermediaire instrumenten die worden gebruikt om consumptiegoederen te produceren. Door kapitaal te accumuleren kunnen ondernemers hun productiviteit verhogen en meer welvaart creëren in de toekomst. In plaats van onmiddellijk consumptiegoederen te produceren, kunnen middelen bijvoorbeeld worden gebruikt om fabrieken of machines te bouwen. Hoewel dit de consumptie op korte termijn vermindert, zorgt de resulterende efficiëntie voor een grotere productie en welvaart later.
+- **Kapitaal als motor van toekomstige productie**: Kapitaalgoederen worden gezien als intermediaire instrumenten die worden gebruikt om consumptiegoederen te produceren. Door kapitaal te accumuleren kunnen ondernemers hun productiviteit verhogen en meer welvaart creëren in de toekomst. In plaats van onmiddellijk consumptiegoederen te produceren, kunnen middelen bijvoorbeeld worden gebruikt om fabrieken of machines te bouwen. Hoewel dit de consumptie op korte termijn vermindert, zorgt de resulterende efficiëntie voor een grotere productie en welvaart later.
 
-- Indirecte productie en efficiëntie**: Oostenrijkse economen, zoals Eugen Böhm-Bawerk, benadrukten het idee van indirecte productie - langere en complexere productieprocessen die uit meerdere fasen bestaan. Hoewel deze processen tijd kosten, leveren ze uiteindelijk efficiëntere en productievere resultaten op, zoals het bouwen van een zagerij om hout te verwerken in plaats van het handmatig verzamelen van boomstammen.
+- **Indirecte productie en efficiëntie**: Oostenrijkse economen, zoals Eugen Böhm-Bawerk, benadrukten het idee van indirecte productie - langere en complexere productieprocessen die uit meerdere fasen bestaan. Hoewel deze processen tijd kosten, leveren ze uiteindelijk efficiëntere en productievere resultaten op, zoals het bouwen van een zagerij om hout te verwerken in plaats van het handmatig verzamelen van boomstammen.
 
-- Rentetarieven als signalen**: In de Oostenrijkse visie weerspiegelen rentetarieven van nature de tijdsvoorkeuren van individuen. Hoge rentetarieven duiden op een voorkeur voor onmiddellijke consumptie, terwijl lage rentetarieven sparen en langetermijninvesteringen aanmoedigen. Wanneer centrale banken de rentetarieven kunstmatig manipuleren, verstoren ze deze natuurlijke signalen, wat leidt tot verkeerd toegewezen middelen en onhoudbare investeringen (malinvestment).
+- **Rentetarieven als signalen**: In de Oostenrijkse visie weerspiegelen rentetarieven van nature de tijdsvoorkeuren van individuen. Hoge rentetarieven duiden op een voorkeur voor onmiddellijke consumptie, terwijl lage rentetarieven sparen en langetermijninvesteringen aanmoedigen. Wanneer centrale banken de rentetarieven kunstmatig manipuleren, verstoren ze deze natuurlijke signalen, wat leidt tot verkeerd toegewezen middelen en onhoudbare investeringen (malinvestment).
 
 **Twee vormen van kapitaal in moderne economieën**
 
@@ -420,19 +420,19 @@ De **Oostenrijkse Economische School** is een traditie van economisch denken die
 
 **Sleutelfiguren van de Oostenrijkse School**
 
-- Carl Menger**: De oprichter van de Oostenrijkse School, Menger ontwikkelde de theorie van subjectieve waarde, die stelt dat de waarde van goederen afhangt van individuele voorkeuren in plaats van productiekosten.
+- **Carl Menger**: De oprichter van de Oostenrijkse School, Menger ontwikkelde de theorie van subjectieve waarde, die stelt dat de waarde van goederen afhangt van individuele voorkeuren in plaats van productiekosten.
 
-- Ludwig von Mises**: Als hoeksteen van de Oostenrijkse School introduceerde Mises de praxeologie (de theorie van menselijk handelen) en schreef hij _Human Action_, een diepgaande kritiek op socialisme en centrale planning.
+- **Ludwig von Mises**: Als hoeksteen van de Oostenrijkse School introduceerde Mises de praxeologie (de theorie van menselijk handelen) en schreef hij _Human Action_, een diepgaande kritiek op socialisme en centrale planning.
 
-- Friedrich Hayek**: Hayek, een student van Mises, won in 1974 de Nobelprijs voor Economie voor zijn werk over gedecentraliseerde kennis en spontane marktwerking. In zijn boek _The Road to Serfdom_ uitte hij felle kritiek op gecentraliseerde controle.
+- **Friedrich Hayek**: Hayek, een student van Mises, won in 1974 de Nobelprijs voor Economie voor zijn werk over gedecentraliseerde kennis en spontane marktwerking. In zijn boek _The Road to Serfdom_ uitte hij felle kritiek op gecentraliseerde controle.
 
-- Murray Rothbard**: Een leerling van Mises en een fervent voorstander van het libertarisme. Rothbard ontwikkelde de theorie van het anarcho-kapitalisme, waarin hij een staatloze maatschappij voorstond die geregeerd werd door vrijwillige contracten. Zijn boek _Man, Economy, and State_ is een baanbrekend werk in de Oostenrijkse economie.
+- **Murray Rothbard**: Een leerling van Mises en een fervent voorstander van het libertarisme. Rothbard ontwikkelde de theorie van het anarcho-kapitalisme, waarin hij een staatloze maatschappij voorstond die geregeerd werd door vrijwillige contracten. Zijn boek _Man, Economy, and State_ is een baanbrekend werk in de Oostenrijkse economie.
 
 **Andere invloedrijke economen**
 
-- Milton Friedman**: Hoewel niet direct geassocieerd met de Oostenrijkse School, steunde Friedman veel pro-markt en liberale ideeën. Zijn monetaristische beleid verschilt van het Oostenrijkse gedachtegoed, maar deelt hun kritiek op overmatige staatsinterventie in de economie.
+- **Milton Friedman**: Hoewel niet direct geassocieerd met de Oostenrijkse School, steunde Friedman veel pro-markt en liberale ideeën. Zijn monetaristische beleid verschilt van het Oostenrijkse gedachtegoed, maar deelt hun kritiek op overmatige staatsinterventie in de economie.
 
-- Frédéric Bastiat**: Bastiat, een 19e-eeuwse Franse econoom, beïnvloedde de Oostenrijkse School met zijn werk over vrije handel en de onzichtbare gevolgen van economisch beleid. Zijn essay _What Is Seen and What Is Not Seen_ is een fundamentele tekst van het economisch liberalisme.
+- **Frédéric Bastiat**: Bastiat, een 19e-eeuwse Franse econoom, beïnvloedde de Oostenrijkse School met zijn werk over vrije handel en de onzichtbare gevolgen van economisch beleid. Zijn essay _What Is Seen and What Is Not Seen_ is een fundamentele tekst van het economisch liberalisme.
 
 ![BIZ101](assets/en/06.webp)
 
@@ -561,10 +561,10 @@ In dit tweede scenario wordt het harmoniseren van verschillende standpunten esse
 
 Momenteel is het scenario van een meerderheidsaandeelhouder die de beslissing neemt het meest representatief bij bedrijven die Bitcoin bezitten. Hier zijn een paar echte voorbeelden:
 
-- Onafhankelijke professionals**: Consultants, gezondheidszorgbeoefenaars of advocaten die een deel van hun langetermijnschat in Bitcoin investeren. Over het algemeen hebben deze professionals al spaarrekeningen of termijndeposito's met een mager rendement.
-- Directieleden uit de technologiesector**: Een kaderlid dat enkele jaren geleden zijn bedrijf verkocht en een deel van de opbrengst van zijn persoonlijke holding in Bitcoin investeerde. Vandaag genieten ze van een comfortabele financiële situatie en herinvesteren ze in nieuwe ondernemingen.
-- Eigenaars van zeer kleine bedrijven** : Ondernemers in de dienstensector, landbouw of ambacht die het potentieel van Bitcoin hebben begrepen en er een deel van hun kas aan toewijzen. Hun belangrijkste motivatie is diversificatie en de vrijheid die het biedt
-- Beursgenoteerde bedrijven** zoals MicroStrategy hebben een precedent geschapen door een aanzienlijk deel van hun bedrijfskas om te zetten in Bitcoin, wat een wereldwijde verschuiving aantoont in de strategieën voor de allocatie van bedrijfskapitaal. Tegen de herfst van 2024 hebben tal van andere bedrijven dit voorbeeld gevolgd, waardoor deze trend verder wordt gelegitimeerd.
+- **Onafhankelijke professionals**: Consultants, gezondheidszorgbeoefenaars of advocaten die een deel van hun langetermijnschat in Bitcoin investeren. Over het algemeen hebben deze professionals al spaarrekeningen of termijndeposito's met een mager rendement.
+- **Directieleden uit de technologiesector**: Een kaderlid dat enkele jaren geleden zijn bedrijf verkocht en een deel van de opbrengst van zijn persoonlijke holding in Bitcoin investeerde. Vandaag genieten ze van een comfortabele financiële situatie en herinvesteren ze in nieuwe ondernemingen.
+- **Eigenaars van zeer kleine bedrijven** : Ondernemers in de dienstensector, landbouw of ambacht die het potentieel van Bitcoin hebben begrepen en er een deel van hun kas aan toewijzen. Hun belangrijkste motivatie is diversificatie en de vrijheid die het biedt
+- **Beursgenoteerde bedrijven** zoals MicroStrategy hebben een precedent geschapen door een aanzienlijk deel van hun bedrijfskas om te zetten in Bitcoin, wat een wereldwijde verschuiving aantoont in de strategieën voor de allocatie van bedrijfskapitaal. Tegen de herfst van 2024 hebben tal van andere bedrijven dit voorbeeld gevolgd, waardoor deze trend verder wordt gelegitimeerd.
 
 ### Belasting op Bitcoin aangehouden door bedrijven
 
@@ -586,17 +586,17 @@ Er zijn drie manieren om Bitcoin te verkrijgen:
 
 ![BIZ101](assets/en/09.webp)
 
-- In Exchange voor goederen of diensten:**
+- **In Exchange voor goederen of diensten:**
 
 Aangezien Bitcoin functioneert als een medium van Exchange, is het mogelijk om een circulaire economie voor te stellen. Hoewel dit vandaag de dag nog ongebruikelijk is, beginnen steeds meer bedrijven Bitcoin betalingen te accepteren - waarom die van jou niet? (Zie ons volgende hoofdstuk)
 
-- Mining Bitcoin:**
+- **Mining Bitcoin:**
 
 Dit houdt in dat je beloningen verdient met het bedienen van Mining machines. Voor niet-gespecialiseerde bedrijven blijft dit relatief marginaal. Je kunt deelnemen via tussenpersonen die je de computers, het netwerk en het onderhoud verkopen of verhuren. Als je de machines bezit, kun je ze boeken als afschrijfbare activa. Op grote schaal moet je de return on investment zorgvuldig berekenen omdat de markt zeer concurrerend is en een goede anticipatie op de kosten vereist, met name elektriciteit.
 
 Om meer te weten te komen over de Mining methodes, kun je [de "Mining" sectie in onze tutorials raadplegen](https://planb.network/tutorials/Mining).
 
-- Bitcoin kopen:**
+- **Bitcoin kopen:**
 
 Dit is verreweg de meest gebruikelijke methode, die wordt toegepast via peer-to-peer exchanges of, meer gebruikelijk, op gespecialiseerde handelsplatforms. Maar bij het verwerven van Bitcoin als bedrijfsmiddel moeten bedrijven voldoen aan strenge regelgevende normen en KYC-procedures (Know-Your-Customer). Als ze Bitcoin kopen op gespecialiseerde handelsplatformen, moeten bedrijven meestal gedetailleerde bedrijfsinformatie verstrekken, waaronder identificatiedocumenten, financiële overzichten en bewijzen van Address, om te voldoen aan KYC- en antiwitwasvereisten (AML).
 
@@ -644,15 +644,15 @@ Deze cryptografische sleutel is een extreem groot willekeurig getal. Om de gebru
 
 Dit leidt tot de kwestie van bewaring: Bitcoin bezitten betekent de sleutel(s) bezitten. Of je bewaart ze zelf, of je delegeert de taak aan een derde partij. Er zijn ook tussenoplossingen. Laten we de meest voorkomende scenario's bekijken:
 
-- Zelfbehoud:**
+- **Zelfbehoud:**
 
 Dit is de optie die wordt aanbevolen door echte Bitcoin liefhebbers, omdat het overeenkomt met het originele ontwerp van de Bitcoin. Je fungeert als je eigen bank: er is geen risico dat een derde partij je bedriegt, maar je bent wel verantwoordelijk voor het beveiligen van de sleutel(s). Je hebt 24/7 volledige toegang tot je geld. In een zakelijke omgeving, waar meerdere mensen transacties moeten uitvoeren, heb je de juiste tools en procedures nodig om de toegang en beveiliging te beheren.
 
-- Bewaring door derden:**
+- **Bewaring door derden:**
 
 Een Exchange of koopdienst kan bijvoorbeeld een account voor je aanmaken, je traditionele valuta omzetten in Bitcoin en het namens jou bewaren met behulp van hun beveiligingssystemen. De meeste van deze diensten staan je toe om je bitcoins op te nemen in een Wallet waar alleen jij de sleutel hebt. Totdat je dat doet, bezit je de bitcoins niet echt; je vertrouwt op hun belofte om je terug te betalen. Dit houdt in dat je een evenwicht moet zoeken tussen veiligheidsrisico's (die van hen versus die van jou) en tegenpartijrisico's (ze kunnen failliet gaan of verdwijnen). Sommige bedrijven vinden dit acceptabel, hoewel het over het algemeen niet wordt aangeraden voor langdurige opslag of voor 100% van uw allocatie. Bewaringsdiensten kunnen ook opslagkosten in rekening brengen.
 
-- "Papier Bitcoin" (ETF's of ETP's):**
+- **"Papier Bitcoin" (ETF's of ETP's):**
 
 Dit zijn traditionele financiële instrumenten die fracties van Bitcoin vertegenwoordigen en de prijsontwikkeling repliceren. De instelling achter het product koopt en houdt theoretisch de onderliggende Bitcoin. Uw bijdragen en opnames worden gedaan in traditionele valuta (bijv. dollars of euro's), niet in Bitcoin. Met uitzondering van bepaalde producten die opname in Bitcoin toestaan (om een belastbaar feit in sommige rechtsgebieden te voorkomen), brengen deze instrumenten jaarlijkse beheervergoedingen met zich mee. Hier vertrouwt u op de veiligheid van de instelling en loopt u een tegenpartijrisico (bijvoorbeeld als een overheid besluit om al het institutioneel aangehouden Bitcoin in beslag te nemen, zoals gebeurde met goud in 1933 onder Uitvoeringsbevel 6102 van de VS). Hun grootste voordeel is de gemakkelijke toegang, omdat ze gedistribueerd worden via traditionele financiële kanalen. Ze omzeilen de noodzaak om cryptografische sleutels te beveiligen, maar bieden geen van de inherente eigenschappen van Bitcoin: je kunt het Bitcoin netwerk niet 24/7 gebruiken om waarde vrij te bewegen zonder toestemming. Ze repliceren alleen de financiële prestaties, niet de functionaliteit of soevereiniteit van Bitcoin zelf.
 
@@ -668,11 +668,11 @@ Als je kiest voor "papieren Bitcoin," wend je je tot financiële instellingen zo
 
 Als je ervoor kiest om echt Bitcoin te kopen via een marktplaats (Exchange) of een makelaar, heb je verschillende hoofdcategorieën:
 
-- Grote internationale of buitenlandse platforms:**
+- **Grote internationale of buitenlandse platforms:**
 
 Voorbeelden zijn Kraken, Coinbase of Binance, historisch gebruikt door veel particulieren. Sommige hebben problemen ondervonden en het is moeilijk om een duidelijke aanbeveling te doen. Een advies: als je ze gebruikt, laat je bitcoins er dan niet langer dan nodig.
 
-- Gereguleerde dienstverleners (Geregistreerde Digital Asset Service Providers):**
+- **Gereguleerde dienstverleners (Geregistreerde Digital Asset Service Providers):**
 
 In Frankrijk bijvoorbeeld staan platforms als Paymium (Exchange) of BullBitcoin (broker) erom bekend dat ze echte Bitcoin enthousiastelingen aan het roer hebben staan en een solide staat van dienst hebben opgebouwd. In de VS heb je dienstverleners als River of Swann. In het algemeen is het belangrijk om de stamboom van de aanbieder te onderzoeken: hun reputatie, staat van dienst, populariteit binnen de Bitcoin gemeenschap en of hun leiderschap in lijn is met de kernwaarden van Bitcoin.
 
@@ -708,27 +708,27 @@ Bitcoin is een infrastructuur van vertrouwen, waarvan de eerste toepassing is om
 
 Bekijk nu het perspectief van een praktisch bedrijf wiens kernactiviteit niets te maken heeft met Bitcoin. Waarom zou het ervoor kiezen om Bitcoin betalingen te accepteren?
 
-- Een Bitcoin schatkist opbouwen:**
+- **Een Bitcoin schatkist opbouwen:**
 
 Zie ons vorige artikel over Bitcoin kopen. Of het nu uit overtuiging is of als diversificatiestrategie, sommige professionals kiezen ervoor om Bitcoin betalingen te accepteren. Sommige Bitcoin-ers beweren dat hoe minder financieel onderlegd een bedrijf is - wat betekent dat het noch de tijd noch de middelen heeft om complexe financiële manoeuvres uit te voeren - hoe belangrijker het wordt voor dat bedrijf om betaald te worden in de hardste vorm van geld die beschikbaar is**. Op die manier wordt het speelveld gelijker en kunnen zelfs kleine bedrijven met weinig tijd hun waarde behouden zonder verstrikt te raken in financiële spelletjes.
 
-- Een nieuwe doelgroep bereiken:**
+- **Een nieuwe doelgroep bereiken:**
 
 Het aantal Bitcoin gebruikers groeit en ze hebben een aanzienlijke koopkracht. Ze zullen zich vanzelf richten op bedrijven die hun valuta accepteren. Omdat dit bovendien de eerste universele, internet-native valuta is, kun je ook internationale klanten op doorreis aantrekken.
 
-- Zichtbaarheid vergroten:**
+- **Zichtbaarheid vergroten:**
 
 Bijvoorbeeld door uw bedrijf te vermelden op platforms zoals BTCmap.org. Er zijn nog maar weinig bedrijven die Bitcoin accepteren, dus mond-tot-mondreclame werkt in uw voordeel. Het onderscheidt je ook van je concurrenten.
 
-- Lagere tarieven:**
+- **Lagere tarieven:**
 
 Directe Bitcoin-betalingen vinden plaats via de Lightning Network. **De kosten zijn minimaal en worden betaald door de koper**. Er zijn geen kosten voor betaalterminals, geen mislukte autorisaties en geen fraude. Ter vergelijking: de betalingsindustrie (kaarten, terminals, overschrijvingen, PSP's, etc.) kost wereldwijd ongeveer $2,2 biljoen per jaar. Voeg daar chargebacks en fraude aan toe, en in totaal wordt bijna een tiende van het equivalent van het BBP van de VS wereldwijd "afgeroomd" van productieve bedrijven, alleen maar om waarde over te dragen. Ongeacht je bedrijf zijn financiële kosten een last die moet worden geoptimaliseerd en in sommige gevallen kunnen hoge kosten bepaalde bedrijfsmodellen verstikken.
 
-- Vrijheid en permissie, 24/7:**
+- **Vrijheid en permissie, 24/7:**
 
 Je hoeft geen toestemming te vragen om Bitcoin te gebruiken. Iedereen kan binnen enkele minuten deelnemen aan de economie met behulp van een smartphone app. Je kunt een betaling sturen of ontvangen van iedereen - individu of bedrijf - op elk moment, zonder beperkingen of vertragingen.
 
-- Maak gebruik van de voordelen van het Bitcoin netwerk:**
+- **Maak gebruik van de voordelen van het Bitcoin netwerk:**
 
 U bent niet verplicht om uw betalingen in Bitcoin-vorm te bewaren - vooral niet als u leveranciers moet betalen of BTW moet afdragen. Bepaalde diensten kunnen uw Bitcoin-betalingen tegen betaling geheel of gedeeltelijk omzetten in de valuta van uw keuze (bijvoorbeeld euro's naar uw IBAN). In dit scenario kan het voordeel van het accepteren van Bitcoin liggen in het aantrekken van nieuwe gebruikers of in de intrinsieke voordelen van Bitcoin (zoals lagere kosten, 24-uurs werking en geen risico op fraude of terugboekingen).
 
@@ -1006,11 +1006,11 @@ Nieuwe infrastructuren hebben succes omdat ze efficiënter zijn en early adopter
 
 *[Bron: BTC Kaart](https://btcmap.org/)*
 
-- Netwerkcijfers:** Het totale aantal kanalen en Bitcoin vergrendeld op Lightning blijft stabiel, met ongeveer 20.000 nodes, 5.200 BTC en 60.000 kanalen. Dit weerspiegelt echter slechts een deel van het netwerk en wijst op een rotatie onder de deelnemers, met minder individuen en meer professionals die deelnemen.
+- **Netwerkcijfers:** Het totale aantal kanalen en Bitcoin vergrendeld op Lightning blijft stabiel, met ongeveer 20.000 nodes, 5.200 BTC en 60.000 kanalen. Dit weerspiegelt echter slechts een deel van het netwerk en wijst op een rotatie onder de deelnemers, met minder individuen en meer professionals die deelnemen.
 
-- Lightning als brug tussen netwerken:** De efficiëntie en beschikbaarheid van de Lightning Network hebben het al gepositioneerd als brug naar andere onderling verbonden netwerken (bijv. FediMint, Liquid, etc.).
+- **Lightning als brug tussen netwerken:** De efficiëntie en beschikbaarheid van de Lightning Network hebben het al gepositioneerd als brug naar andere onderling verbonden netwerken (bijv. FediMint, Liquid, etc.).
 
-**De comeback van de Wallet**
+**De comeback van de wallet**
 
 Bitcoin en de Lightning Network voltooien de **digitale Wallet revolutie**. Nieuwe webdiensten maken nu **transacties mogelijk zonder dat je een account hoeft aan te maken** - je Wallet wordt je identiteit! Met protocollen zoals **Nostr Wallet Connect (NWC)** en **LN-URL-AUTH**, kunnen portemonnees gebruikers naadloos authenticeren en transacties mogelijk maken zonder traditionele accounts. De dagen van accountmoeheid voor eenvoudige aankopen of abonnementen zijn voorbij. Het is niet meer nodig om persoonlijke of betalingsgegevens te verstrekken die gehackt kunnen worden en te koop zijn op het dark web, zoals maar al te vaak is gebleken uit recente gebeurtenissen.
 
@@ -1038,8 +1038,8 @@ De **belangrijkste consequentie** om in gedachten te houden is dat, in de meeste
 
 Een ander aspect van Bitcoin accounting is het maken van onderscheid tussen twee soorten vermogenswinsten:
 
-- Latente winsten/verliezen:** Niet-gerealiseerde winsten of verliezen gebaseerd op de waarde van Bitcoin aangehouden aan het einde van een boekhoudperiode.
-- Effectieve winsten/verliezen:** Gerealiseerde winsten of verliezen wanneer Bitcoin wordt verkocht of ingeruild tijdens het boekjaar.
+- **Latente winsten/verliezen:** Niet-gerealiseerde winsten of verliezen gebaseerd op de waarde van Bitcoin aangehouden aan het einde van een boekhoudperiode.
+- **Effectieve winsten/verliezen:** Gerealiseerde winsten of verliezen wanneer Bitcoin wordt verkocht of ingeruild tijdens het boekjaar.
 
 Deze berekeningen zijn sterk afhankelijk van het feit of Bitcoin wordt aangehouden voor langetermijninvesteringen of voor operationeel gebruik op korte termijn. Bovendien moeten bedrijven hun boekhoudpraktijken afstemmen op lokale belastingstructuren, aangezien de regelgeving per land aanzienlijk verschilt.
 
@@ -1085,9 +1085,9 @@ De wettelijke en boekhoudkundige behandeling van Bitcoin verschilt aanzienlijk t
 
 Voor bedrijven kan Bitcoin worden ingedeeld in verschillende accounts, afhankelijk van het beoogde gebruik:
 
-- Vaste activa:** Voor Bitcoin op lange termijn aangehouden als strategische investering.
-- Voorraden:** Voor Bitcoin gebruikt in productieprocessen (een zeldzaam gebruik, dit is bijvoorbeeld het geval voor professionele handelaren).
-- Kasmiddelen of schatkistrekeningen:** Voor Bitcoin aangehouden als actief in Liquid, voornamelijk voor operationele transacties of kasbeheer op korte termijn.
+- **Vaste activa:** Voor Bitcoin op lange termijn aangehouden als strategische investering.
+- **Voorraden:** Voor Bitcoin gebruikt in productieprocessen (een zeldzaam gebruik, dit is bijvoorbeeld het geval voor professionele handelaren).
+- **Kasmiddelen of schatkistrekeningen:** Voor Bitcoin aangehouden als actief in Liquid, voornamelijk voor operationele transacties of kasbeheer op korte termijn.
 
 De keuze van de classificatie hangt af van de activiteit en strategie van het bedrijf, met gevolgen voor de financiële verslaglegging en belastingverplichtingen. Controleer altijd de lokale regelgeving, aangezien deze classificaties per land kunnen verschillen.
 
@@ -1097,15 +1097,15 @@ De wettelijke erkenning en behandeling van Bitcoin varieert per jurisdictie. Som
 
 In de meeste landen wordt Bitcoin gecategoriseerd als een digitaal actief en de behandeling ervan wordt bepaald door algemene boekhoudnormen. Bedrijven moeten Bitcoin-transacties als volgt verantwoorden:
 
-- Kapitaalwinsten/-verliezen boeken:** Bedrijven moeten gerealiseerde winsten of verliezen opnemen in hun financiële resultaten.
-- Latente winsten/verliezen Waardering:** Niet-gerealiseerde winsten of verliezen moeten vaak worden gerapporteerd, maar hebben mogelijk geen directe invloed op het belastbaar inkomen.
-- Naleving van boekhoudstandaarden:** Bedrijven moeten Bitcoin transacties integreren in standaard boekhoudpraktijken, om transparantie en nauwkeurigheid te garanderen.
+- **Kapitaalwinsten/-verliezen boeken:** Bedrijven moeten gerealiseerde winsten of verliezen opnemen in hun financiële resultaten.
+- **Latente winsten/verliezen Waardering:** Niet-gerealiseerde winsten of verliezen moeten vaak worden gerapporteerd, maar hebben mogelijk geen directe invloed op het belastbaar inkomen.
+- **Naleving van boekhoudstandaarden:** Bedrijven moeten Bitcoin transacties integreren in standaard boekhoudpraktijken, om transparantie en nauwkeurigheid te garanderen.
 
 De aanpak van de Bitcoin-boekhouding varieert per geografie:
 
-- Verenigde Staten:** De IRS classificeert Bitcoin als **eigendom, vergelijkbaar met aandelen, obligaties of onroerend goed**. Deze classificatie betekent dat elke transactie met cryptocurrency, zoals het verdienen, verkopen, verhandelen of zelfs gebruiken om aankopen te doen, een belastbare gebeurtenis kan creëren en dat winsten onderhevig zijn aan vermogenswinstbelasting.
-- Europese Unie:** Lidstaten behandelen Bitcoin over het algemeen als een speculatief actief in plaats van een functionele valuta. Daarom zijn winsten vaak onderhevig aan vermogenswinstbelasting.
-- Azië:** Landen als Singapore en Japan hebben progressieve regelgevende kaders aangenomen, waarbij Bitcoin transacties in specifieke contexten gunstig worden behandeld. Maar Bitcoin wordt over het algemeen geboekt als **immateriële activa**, en het wordt gewaardeerd tegen reële waarde op de rapporteringsdatum, met veranderingen opgenomen in de winst- en verliesrekening.
+- **Verenigde Staten:** De IRS classificeert Bitcoin als **eigendom, vergelijkbaar met aandelen, obligaties of onroerend goed**. Deze classificatie betekent dat elke transactie met cryptocurrency, zoals het verdienen, verkopen, verhandelen of zelfs gebruiken om aankopen te doen, een belastbare gebeurtenis kan creëren en dat winsten onderhevig zijn aan vermogenswinstbelasting.
+- **Europese Unie:** Lidstaten behandelen Bitcoin over het algemeen als een speculatief actief in plaats van een functionele valuta. Daarom zijn winsten vaak onderhevig aan vermogenswinstbelasting.
+- **Azië:** Landen als Singapore en Japan hebben progressieve regelgevende kaders aangenomen, waarbij Bitcoin transacties in specifieke contexten gunstig worden behandeld. Maar Bitcoin wordt over het algemeen geboekt als **immateriële activa**, en het wordt gewaardeerd tegen reële waarde op de rapporteringsdatum, met veranderingen opgenomen in de winst- en verliesrekening.
 
 Het is essentieel om de regelgeving in het land waar je actief bent te begrijpen en je boekhoudpraktijken hierop aan te passen.
 
@@ -1113,9 +1113,9 @@ Het is essentieel om de regelgeving in het land waar je actief bent te begrijpen
 
 Het snelle tempo van de innovatie van cryptocurrency overtreft vaak de regelgevende kaders. Sinds de erkenning van Bitcoin als digitaal activum is de wereldwijde regelgeving geleidelijk bijgewerkt, maar er zijn nog steeds hiaten:
 
-- Gebrek aan jurisprudentie:** Weinig rechtszaken hebben specifieke boekhoudpraktijken verduidelijkt, waardoor er ruimte is voor interpretatie.
-- Lopende discussies:** Kwesties zoals de fiscale behandeling van latente verliezen blijven in veel rechtsgebieden onopgelost.
-- Grensoverschrijdende complexiteit:** Bedrijven die internationaal actief zijn, hebben te maken met problemen om de verschillende nationale boekhoudnormen op elkaar af te stemmen.
+- **Gebrek aan jurisprudentie:** Weinig rechtszaken hebben specifieke boekhoudpraktijken verduidelijkt, waardoor er ruimte is voor interpretatie.
+- **Lopende discussies:** Kwesties zoals de fiscale behandeling van latente verliezen blijven in veel rechtsgebieden onopgelost.
+- **Grensoverschrijdende complexiteit:** Bedrijven die internationaal actief zijn, hebben te maken met problemen om de verschillende nationale boekhoudnormen op elkaar af te stemmen.
 
 Ondanks deze uitdagingen bieden de proactieve standpunten van veel landen een solide basis voor bedrijven om Bitcoin in hun activiteiten op te nemen. Voortdurende updates en internationale harmonisatie zullen Address essentieel zijn voor de opkomende complexiteit van de boekhouding van cryptocurrency.
 
@@ -1123,9 +1123,9 @@ Ondanks deze uitdagingen bieden de proactieve standpunten van veel landen een so
 
 De classificatie van Bitcoin in jaarrekeningen verschilt per jurisdictie en hangt af van het beoogde gebruik binnen een bedrijf. In grote lijnen wordt Bitcoin behandeld als een digitaal actief, verwant aan inventaris, investering of valuta, maar met unieke kenmerken die de boekhoudkundige behandeling beïnvloeden.
 
-- Digitaal of immaterieel activum**: Veel rechtsgebieden, waaronder Frankrijk en de Europese Unie, classificeren Bitcoin als een digitaal of immaterieel actief in plaats van een wettig betaalmiddel. Deze classificatie vereist dat bedrijven Bitcoin anders verantwoorden dan fiatvaluta's.
-- Inventaris**: Als de kernactiviteit van een bedrijf bestaat uit het verhandelen van Bitcoin, zoals cryptocurrency exchanges of makelaars, wordt Bitcoin geclassificeerd als inventaris. In dit geval volgt de waardering de standaarden voor voorraadboekhouding.
-- Financiële investering**: Bedrijven die Bitcoin als een lange termijn actief houden, kunnen het classificeren als een financiële investering. In de Verenigde Staten zouden bedrijven Bitcoin bijvoorbeeld kunnen boeken volgens de richtlijnen van de Financial Accounting Standards Board (FASB), waarbij bijzondere waardeverminderingen worden erkend wanneer de marktwaarde daalt.
+- **Digitaal of immaterieel activum**: Veel rechtsgebieden, waaronder Frankrijk en de Europese Unie, classificeren Bitcoin als een digitaal of immaterieel actief in plaats van een wettig betaalmiddel. Deze classificatie vereist dat bedrijven Bitcoin anders verantwoorden dan fiatvaluta's.
+- **Inventaris**: Als de kernactiviteit van een bedrijf bestaat uit het verhandelen van Bitcoin, zoals cryptocurrency exchanges of makelaars, wordt Bitcoin geclassificeerd als inventaris. In dit geval volgt de waardering de standaarden voor voorraadboekhouding.
+- **Financiële investering**: Bedrijven die Bitcoin als een lange termijn actief houden, kunnen het classificeren als een financiële investering. In de Verenigde Staten zouden bedrijven Bitcoin bijvoorbeeld kunnen boeken volgens de richtlijnen van de Financial Accounting Standards Board (FASB), waarbij bijzondere waardeverminderingen worden erkend wanneer de marktwaarde daalt.
 
 **Implicaties van classificatie :**
 
@@ -1153,11 +1153,11 @@ Bedrijven moeten ervoor zorgen dat de **betalingstools** die ze gebruiken de mog
 
 ### Uitdagingen
 
-- Volatiliteit**: De prijs van Bitcoin fluctueert aanzienlijk, waardoor het moeilijk is om holdings te waarderen en toekomstige financiële resultaten te voorspellen.
-- Regelgeving**: In landen als China beperkt de beperkte status van Bitcoin het gebruik ervan als schatkistcertificaat.
-- Onzekerheid over regelgeving** : Het veranderende regelgevingslandschap van Bitcoin laat bedrijven vaak in het ongewisse. Veranderingen in het belastingbeleid, bijvoorbeeld in India of de Verenigde Staten, kunnen van de ene op de andere dag invloed hebben op de boekhoudpraktijken.
-- Risico's van wanbeheer** : Onjuiste classificatie of het niet monitoren van Bitcoin transacties kan leiden tot compliance problemen, boetes of reputatieschade.
-- Risico's van herkwalificatie**: Het aanhouden van een aanzienlijk deel van de kas van een bedrijf in Bitcoin stelt het bedrijf bloot aan potentiële verliezen door prijsdalingen. Dit kan ernstige gevolgen hebben, vooral als dergelijke dalingen zich voordoen wanneer betalingen aan leveranciers, werknemers of belastingen verschuldigd zijn. Bovendien kan de eigenaar van het bedrijf aansprakelijk worden gesteld, wat kan leiden tot boetes of andere juridische problemen, zoals beschuldigingen van misbruik van bedrijfsmiddelen.
+- **Volatiliteit**: De prijs van Bitcoin fluctueert aanzienlijk, waardoor het moeilijk is om holdings te waarderen en toekomstige financiële resultaten te voorspellen.
+- **Regelgeving**: In landen als China beperkt de beperkte status van Bitcoin het gebruik ervan als schatkistcertificaat.
+- **Onzekerheid over regelgeving** : Het veranderende regelgevingslandschap van Bitcoin laat bedrijven vaak in het ongewisse. Veranderingen in het belastingbeleid, bijvoorbeeld in India of de Verenigde Staten, kunnen van de ene op de andere dag invloed hebben op de boekhoudpraktijken.
+- **Risico's van wanbeheer** : Onjuiste classificatie of het niet monitoren van Bitcoin transacties kan leiden tot compliance problemen, boetes of reputatieschade.
+- **Risico's van herkwalificatie**: Het aanhouden van een aanzienlijk deel van de kas van een bedrijf in Bitcoin stelt het bedrijf bloot aan potentiële verliezen door prijsdalingen. Dit kan ernstige gevolgen hebben, vooral als dergelijke dalingen zich voordoen wanneer betalingen aan leveranciers, werknemers of belastingen verschuldigd zijn. Bovendien kan de eigenaar van het bedrijf aansprakelijk worden gesteld, wat kan leiden tot boetes of andere juridische problemen, zoals beschuldigingen van misbruik van bedrijfsmiddelen.
 
 ## Boekhoudprogramma's en -software
 
@@ -1191,21 +1191,21 @@ Tot slot, of je nu een kleine handelaar bent of een meer gevestigd bedrijf, het 
 **Scenario**: Een kleine bakkerij accepteert Bitcoin als betaalmethode, maar zet alle ontvangen Bitcoin onmiddellijk om in euro's om blootstelling aan de volatiliteit van de cryptocurrency te vermijden.
 
 **Voorbeeld**:
-- Bitcoin omrekeningskoers**: 1 Bitcoin = €40.000.
-- Transactie 1**: Klant koopt meerdere gebakjes voor €20.
+- **Bitcoin omrekeningskoers**: 1 Bitcoin = €40.000.
+- **Transactie 1**: Klant koopt meerdere gebakjes voor €20.
     - Bitcoin equivalent: (20 / 40.000) = 0,0005 Bitcoin = 50.000 Satoshis.
     - Omrekeningskosten: 1,5% (€20 × 0,015) = €0,30.
     - Netto ontvangen: €20 - €0,30 = €19,70.
-- Transactie 2**: Klant koopt koffie voor €5.
+- **Transactie 2**: Klant koopt koffie voor €5.
     - Bitcoin equivalent: (5 / 40.000) = 0,000125 Bitcoin = 12.500 Satoshis.
     - Omrekeningskosten: 1,5% (€5 × 0,015) = €0,075.
     - Netto ontvangen: €5 - €0,075 = €4,925.
 
 **Samenvatting van transacties**:
 
-- Totale verkoop**: €25.
-- Totale kosten**: €0,375.
-- Netto ontvangen euro's**: €24.625.
+- **Totale verkoop**: €25.
+- **Totale kosten**: €0,375.
+- **Netto ontvangen euro's**: €24.625.
 
 **Boekhoudkundige gevolgen**:
 
@@ -1219,8 +1219,8 @@ Tot slot, of je nu een kleine handelaar bent of een meer gevestigd bedrijf, het 
 
 **Voorbeeld**:
 
-- Bitcoin omrekeningskoers**: 1 Bitcoin = €40.000.
-- Transactie van klant**: Klant koopt gebak voor €50.
+- **Bitcoin omrekeningskoers**: 1 Bitcoin = €40.000.
+- **Transactie van klant**: Klant koopt gebak voor €50.
     - Bitcoin equivalent: (50 / 40.000) = 0,00125 Bitcoin = 125.000 Satoshis.
     - Omrekening (50%): €25 ter waarde van Bitcoin = 0,000625 Bitcoin = 62.500 Satoshis.
         - Omzettingskosten: 1,5% (€25 × 0,015) = €0,375.
@@ -1228,10 +1228,10 @@ Tot slot, of je nu een kleine handelaar bent of een meer gevestigd bedrijf, het 
     - Behouden in Bitcoin (50%): 62.500 Satoshis = 0,000625 Bitcoin.
 
 **Samenvatting van transacties**:
-- Totale verkoop**: €50.
-- Kosten**: €0,375.
-- Netto ontvangen euro's**: €24.625.
-- Bitcoin Behouden**: 62.500 Satoshis.
+- **Totale verkoop**: €50.
+- **Kosten**: €0,375.
+- **Netto ontvangen euro's**: €24.625.
+- **Bitcoin Behouden**: 62.500 Satoshis.
 
 **Boekhoudkundige gevolgen**:
 
@@ -1246,19 +1246,19 @@ Tot slot, of je nu een kleine handelaar bent of een meer gevestigd bedrijf, het 
 
 **Voorbeeld**:
 
-- Bitcoin Omrekeningskoers bij betaling**: 1 Bitcoin = €30.000.
-- Transactie van klant**: Klant betaalt voor diensten ter waarde van €3.000.
+- **Bitcoin Omrekeningskoers bij betaling**: 1 Bitcoin = €30.000.
+- **Transactie van klant**: Klant betaalt voor diensten ter waarde van €3.000.
     - Bitcoin equivalent: (3.000 / 30.000) = 0,1 Bitcoin = 10.000.000 Satoshis.
-- Waardering aan het einde van het jaar**:
+- **Waardering aan het einde van het jaar**:
     - Bitcoin omrekeningskoers aan het einde van het jaar: 1 Bitcoin = €35.000.
     - Waardering Bitcoin Holding: 0.1 Bitcoin × €35.000 = €3.500.
     - Ongerealiseerde winst: €3.500 - €3.000 = €500.
 
 **Samenvatting van transacties**:
 
-- Totaal opgenomen inkomsten**: €3.000.
-- Bitcoin Bedrijf**: 0.1 Bitcoin met een waarde van € 3.500 op de balans.
-- Niet-gerealiseerde winst**: €500 opgenomen in de financiële toelichting maar niet gerealiseerd als inkomsten.
+- **Totaal opgenomen inkomsten**: €3.000.
+- **Bitcoin Bedrijf**: 0.1 Bitcoin met een waarde van € 3.500 op de balans.
+- **Niet-gerealiseerde winst**: €500 opgenomen in de financiële toelichting maar niet gerealiseerd als inkomsten.
 
 **Boekhoudkundige gevolgen**:
 
@@ -1272,18 +1272,18 @@ Tot slot, of je nu een kleine handelaar bent of een meer gevestigd bedrijf, het 
 
 **Voorbeeld**:
 
-- Bitcoin Aankopen van klanten**:
+- **Bitcoin Aankopen van klanten**:
     - Aankoop 1: €2.000 tegen €20.000/BTC = 0,1 Bitcoin = 10.000.000 Satoshis.
     - Aankoop 2: €3.000 tegen €25.000/BTC = 0,12 Bitcoin = 12.000.000 Satoshis.
     - Aankoop 3: €5.000 tegen €30.000/BTC = 0,1667 Bitcoin = 16.670.000 Satoshis.
     - Totaal Bitcoin gehouden**: 0.3867 Bitcoin = 38.670.000 Satoshis.
 
-- Waardering aan het einde van het jaar**:
+- **Waardering aan het einde van het jaar**:
     - Bitcoin Prijs aan het einde van het jaar: €40.000/BTC.
     - Totale waarde: 0,3867 Bitcoin × €40.000 = €15.468.
     - Niet-gerealiseerde winst: €15.468 - €10.000 (totale kosten) = €5.468.
 
-- Verkoop van 50% van Bitcoin**:
+- **Verkoop van 50% van Bitcoin**:
     - Bitcoin Verkocht: 0,19335 Bitcoin.
     - Verkoopopbrengst: 0.19335 Bitcoin × €40.000 = €7.734.
     - Kostenbasis (gewogen gemiddelde):
@@ -1294,9 +1294,9 @@ Tot slot, of je nu een kleine handelaar bent of een meer gevestigd bedrijf, het 
 
 **Samenvatting van transacties**:
 
-- Bitcoin over**: 0.19335 Bitcoin ter waarde van €7.734 (tegen €40.000/BTC).
-- Gerealiseerde winst**: €2.735 opgenomen in de winst-en-verliesrekening.
-- Niet-gerealiseerde winst**: €5.468 opgenomen in de financiële toelichting (inclusief niet-gerealiseerde waarde van resterende Bitcoin).
+- **Bitcoin over**: 0.19335 Bitcoin ter waarde van €7.734 (tegen €40.000/BTC).
+- **Gerealiseerde winst**: €2.735 opgenomen in de winst-en-verliesrekening.
+- **Niet-gerealiseerde winst**: €5.468 opgenomen in de financiële toelichting (inclusief niet-gerealiseerde waarde van resterende Bitcoin).
 
 **Boekhoudkundige gevolgen**:
 
