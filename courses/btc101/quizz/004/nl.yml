@@ -1,11 +1,11 @@
-question: Wat betekent het voor Bitcoin om een neutrale valuta te zijn?
-answer: Het wordt door geen enkele entiteit of instelling gecontroleerd.
+question: Wat betekent het dat Bitcoin een neutrale munt is?
+answer: Het wordt niet gecontroleerd door een entiteit of instelling.
 wrong_answers:
-  - Het wordt gecontroleerd door een enkele entiteit of instelling.
+  - Het wordt gecontroleerd door één enkele entiteit of instelling.
   - Het wordt gereguleerd door de overheid.
   - Het wordt alleen gebruikt voor grote transacties.
 explanation: |
-  Bitcoin is een neutrale valuta, wat betekent dat het niet wordt gecontroleerd
-  door geen enkele entiteit of instelling, dus elke gebruiker heeft dezelfde
-  rechten. Dit is een belangrijk aspect van de decentralisatie.
+  Bitcoin is een neutrale munt, wat betekent dat het niet wordt gecontroleerd
+  door een entiteit of instelling, zodat elke gebruiker dezelfde
+  rechten heeft. Dit is een belangrijk aspect van de decentralisatie ervan.
 reviewed: true
