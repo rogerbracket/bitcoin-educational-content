@@ -1,13 +1,13 @@
-question: Wat is de Onafhankelijkheidsverklaring van Cyberspace?
-answer: Een tekst die beweert dat cyberspace een ander domein is dan de fysieke sfeer en niet aan dezelfde wetten moet worden onderworpen.
+question: Wat is de Verklaring van de Onafhankelijkheid van Cyberspace?
+answer: Een tekst die stelt dat cyberspace een afzonderlijk domein is van de fysieke wereld en niet onderworpen moet zijn aan dezelfde wetten.
 wrong_answers:
   - Een verklaring dat Bitcoin onafhankelijk is van traditionele financiële systemen.
-  - Een tekst die beweert dat cyberspace moet worden gecontroleerd door overheidsregulering.
-  - Een verklaring die staat voor de onafhankelijkheid van de piratenbeweging van elke regelgeving.
+  - Een tekst die stelt dat cyberspace moet worden gecontroleerd door overheden.
+  - Een verklaring die pleit voor de onafhankelijkheid van de piratenbeweging van elke regelgeving.
 explanation: |
-  De Onafhankelijkheidsverklaring van Cyberspace werd
-  geschreven door John Perry Barlow in 1996. Dit document stelt
-  dat cyberspace een aparte ruimte is ten opzichte van de fysieke
-  gebied is, zodat industriële overheden daar hun
-  autoriteit daar niet kunnen afdwingen.
+  De Verklaring van de Onafhankelijkheid van Cyberspace werd in 1996
+  geschreven door John Perry Barlow. Dit document stelt
+  dat cyberspace een afzonderlijk domein is van de fysieke
+  wereld, zodat industriële overheden daar hun
+  gezag niet kunnen afdwingen.
 reviewed: true
